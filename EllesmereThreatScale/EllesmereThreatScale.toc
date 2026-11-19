@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Ellesmere Threat Scale
+## Notes: Scales EllesmereUI enemy nameplates based on your aggro.
+## Author: RozziP
+## Version: 1.1.0
+## Dependencies: EllesmereUINameplates
+## SavedVariables: EllesmereThreatScaleDB
+
+ThreatScale.lua
