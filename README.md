@@ -1,5 +1,9 @@
 # Ellesmere Threat Scale
 
+> **Deprecated.** Active development has moved to **Monning EUI Plugin Suite**. Its first public release is in preparation.
+>
+> Monning includes threat scaling and can import your standalone settings.
+
 Ellesmere Threat Scale is a WoW Forever companion addon for EllesmereUI Nameplates. It changes the visual size of each enemy nameplate as your aggro changes.
 
 | Your aggro on the enemy | Size relative to EllesmereUI |
