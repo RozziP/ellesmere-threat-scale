@@ -1,6 +1,6 @@
 # Ellesmere Threat Scale
 
-> **Deprecated.** Active development has moved to **Monning EUI Plugin Suite**. Its first public release is in preparation.
+> **Deprecated.** Active development has moved to [Monning EUI Plugin Suite](https://www.curseforge.com/wow/addons/monning-eui-plugin-suite). Its first release is under CurseForge review.
 >
 > Monning includes threat scaling and can import your standalone settings.
 
